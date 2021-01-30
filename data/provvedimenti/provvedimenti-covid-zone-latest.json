@@ -356,5 +356,38 @@
         "Basilicata"
       ]
     }
+  },
+  {
+    "date": "2021/01/24",
+    "zone": {
+      "red": [
+        "Sicilia",
+        "P.A. Bolzano"
+      ],
+      "orange": [
+        "Puglia",
+        "Abruzzo",
+        "Liguria",
+        "Umbria",
+        "Emilia-Romagna",
+        "Friuli Venezia Giulia",
+        "Marche",
+        "Calabria",
+        "Lombardia",
+        "Piemonte",
+        "Valle d'Aosta",
+        "Lazio",
+        "Veneto",
+        "Lombardia",
+        "Sardegna"
+      ],
+      "yellow":[
+        "P.A. Trento",
+        "Toscana",
+        "Molise",
+        "Campania",
+        "Basilicata"
+      ]
+    }
   }
 ]
