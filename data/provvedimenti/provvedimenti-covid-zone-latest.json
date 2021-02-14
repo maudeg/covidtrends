@@ -2,8 +2,16 @@
   {
     "date": "2020/11/04",
     "zone": {
-      "orange": ["Puglia", "Sicilia"],
-      "red": ["Calabria", "Lombardia", "Piemonte", "Valle d'Aosta"]
+      "orange": [
+        "Puglia",
+        "Sicilia"
+      ],
+      "red": [
+        "Calabria",
+        "Lombardia",
+        "Piemonte",
+        "Valle d'Aosta"
+      ]
     }
   },
   {
@@ -91,7 +99,13 @@
         "Lombardia",
         "Piemonte"
       ],
-      "red": ["Valle d'Aosta", "P.A. Bolzano", "Toscana", "Campania", "Abruzzo"]
+      "red": [
+        "Valle d'Aosta",
+        "P.A. Bolzano",
+        "Toscana",
+        "Campania",
+        "Abruzzo"
+      ]
     }
   },
   {
@@ -107,7 +121,9 @@
         "Valle d'Aosta",
         "P.A. Bolzano"
       ],
-      "red": ["Abruzzo"]
+      "red": [
+        "Abruzzo"
+      ]
     }
   },
   {
@@ -126,7 +142,10 @@
   {
     "date": "2020/12/20",
     "zone": {
-      "orange": ["P.A. Bolzano", "Abruzzo"],
+      "orange": [
+        "P.A. Bolzano",
+        "Abruzzo"
+      ],
       "red": []
     }
   },
@@ -347,7 +366,7 @@
         "Lazio",
         "Veneto"
       ],
-      "yellow":[
+      "yellow": [
         "P.A. Trento",
         "Toscana",
         "Sardegna",
@@ -381,12 +400,108 @@
         "Lombardia",
         "Sardegna"
       ],
-      "yellow":[
+      "yellow": [
         "P.A. Trento",
         "Toscana",
         "Molise",
         "Campania",
         "Basilicata"
+      ]
+    }
+  },
+  {
+    "date": "2021/02/01",
+    "zone": {
+      "red": [],
+      "orange": [
+        "Sardegna",
+        "Umbria",
+        "Puglia",
+        "Sicilia",
+        "P.A. Bolzano"
+      ],
+      "yellow": [
+        "P.A. Trento",
+        "Toscana",
+        "Molise",
+        "Campania",
+        "Basilicata",
+        "Puglia",
+        "Abruzzo",
+        "Liguria",
+        "Emilia-Romagna",
+        "Friuli Venezia Giulia",
+        "Marche",
+        "Calabria",
+        "Lombardia",
+        "Piemonte",
+        "Valle d'Aosta",
+        "Lazio",
+        "Veneto"
+      ]
+    }
+  },
+  {
+    "date": "2021/02/08",
+    "zone": {
+      "red": [],
+      "orange": [
+        "Umbria",
+        "Sicilia",
+        "P.A. Bolzano"
+      ],
+      "yellow": [
+        "P.A. Trento",
+        "Toscana",
+        "Molise",
+        "Campania",
+        "Basilicata",
+        "Puglia",
+        "Abruzzo",
+        "Liguria",
+        "Emilia-Romagna",
+        "Friuli Venezia Giulia",
+        "Marche",
+        "Calabria",
+        "Lombardia",
+        "Piemonte",
+        "Valle d'Aosta",
+        "Lazio",
+        "Veneto",
+        "Sardegna",
+        "Puglia"
+      ]
+    }
+  },
+  {
+    "date": "2021/02/14",
+    "zone": {
+      "red": [],
+      "orange": [
+        "Umbria",
+        "P.A. Bolzano",
+        "P.A. Trento",
+        "Toscana",
+        "Liguria",
+        "Abruzzo"
+      ],
+      "yellow": [
+        "Molise",
+        "Campania",
+        "Basilicata",
+        "Puglia",
+        "Emilia-Romagna",
+        "Friuli Venezia Giulia",
+        "Marche",
+        "Calabria",
+        "Lombardia",
+        "Piemonte",
+        "Valle d'Aosta",
+        "Lazio",
+        "Veneto",
+        "Sardegna",
+        "Sicilia",
+        "Puglia"
       ]
     }
   }
