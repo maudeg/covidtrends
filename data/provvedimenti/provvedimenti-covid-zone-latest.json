@@ -476,10 +476,11 @@
   {
     "date": "2021/02/14",
     "zone": {
-      "red": [],
+      "red": [
+        "P.A. Bolzano"
+      ],
       "orange": [
         "Umbria",
-        "P.A. Bolzano",
         "P.A. Trento",
         "Toscana",
         "Liguria",
