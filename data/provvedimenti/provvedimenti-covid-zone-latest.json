@@ -505,5 +505,38 @@
         "Puglia"
       ]
     }
+  },
+  {
+    "date": "2021/02/21",
+    "zone": {
+      "red": [
+        "P.A. Bolzano"
+      ],
+      "orange": [
+        "Umbria",
+        "P.A. Trento",
+        "Toscana",
+        "Liguria",
+        "Emilia-Romagna",
+        "Campania",
+        "Molise",
+        "Abruzzo"
+      ],
+      "yellow": [        
+        "Basilicata",
+        "Puglia",
+        "Friuli Venezia Giulia",
+        "Marche",
+        "Calabria",
+        "Lombardia",
+        "Piemonte",
+        "Valle d'Aosta",
+        "Lazio",
+        "Veneto",
+        "Sardegna",
+        "Sicilia",
+        "Puglia"
+      ]
+    }
   }
 ]
