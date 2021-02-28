@@ -490,7 +490,6 @@
         "Molise",
         "Campania",
         "Basilicata",
-        "Puglia",
         "Emilia-Romagna",
         "Friuli Venezia Giulia",
         "Marche",
@@ -524,7 +523,6 @@
       ],
       "yellow": [        
         "Basilicata",
-        "Puglia",
         "Friuli Venezia Giulia",
         "Marche",
         "Calabria",
@@ -536,6 +534,41 @@
         "Sardegna",
         "Sicilia",
         "Puglia"
+      ]
+    }
+  },
+  {
+    "date": "2021/03/01",
+    "zone": {
+      "red": [
+        "Molise",
+        "Basilicata"
+      ],
+      "orange": [
+        "Umbria",
+        "P.A. Trento",
+        "P.A. Bolzano",
+        "Toscana",
+        "Emilia-Romagna",
+        "Campania",
+        "Molise",
+        "Abruzzo",
+        "Marche",
+        "Lombardia",
+        "Piemonte"
+      ],
+      "yellow": [
+        "Liguria",
+        "Puglia",
+        "Friuli Venezia Giulia",
+        "Calabria",
+        "Valle d'Aosta",
+        "Lazio",
+        "Veneto",
+        "Sicilia"
+      ],
+      "white":[
+        "Sardegna"
       ]
     }
   }
