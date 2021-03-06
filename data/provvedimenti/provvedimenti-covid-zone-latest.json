@@ -544,6 +544,9 @@
         "Molise",
         "Basilicata"
       ],
+      "darkOrange": [
+        "Lombardia"
+      ],
       "orange": [
         "Umbria",
         "P.A. Trento",
@@ -554,7 +557,6 @@
         "Molise",
         "Abruzzo",
         "Marche",
-        "Lombardia",
         "Piemonte"
       ],
       "yellow": [
@@ -568,6 +570,43 @@
         "Sicilia"
       ],
       "white":[
+        "Sardegna"
+      ]
+    }
+  },
+  {
+    "date": "2021/03/08",
+    "zone": {
+      "red": [
+        "Molise",
+        "Basilicata"
+      ],
+      "darkOrange": [
+        "Lombardia",
+        "Campania",
+        "Piemonte"
+      ],
+      "orange": [
+        "Umbria",
+        "P.A. Trento",
+        "P.A. Bolzano",
+        "Toscana",
+        "Emilia-Romagna",
+        "Molise",
+        "Abruzzo",
+        "Veneto",
+        "Friuli Venezia Giulia",
+        "Marche"
+      ],
+      "yellow": [
+        "Liguria",
+        "Puglia",
+        "Calabria",
+        "Valle d'Aosta",
+        "Lazio",
+        "Sicilia"
+      ],
+      "white": [
         "Sardegna"
       ]
     }
