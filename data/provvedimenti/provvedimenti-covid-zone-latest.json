@@ -610,5 +610,42 @@
         "Sardegna"
       ]
     }
+  },
+  {
+    "date": "2021/03/15",
+    "zone": {
+      "red": [
+        "Molise",
+        "Emilia-Romagna",
+        "Friuli Venezia Giulia",
+        "Lazio",
+        "Lombardia",
+        "Marche",
+        "Puglia",
+        "Piemonte",
+        "Veneto",
+        "P.A. Trento",
+        "Campania",
+        "Molise",
+        "Basilicata"
+      ],
+      "darkOrange": [
+      ],
+      "orange": [
+        "Umbria",
+        "P.A. Bolzano",
+        "Toscana",
+        "Liguria",
+        "Calabria",
+        "Valle d'Aosta",
+        "Sicilia",
+        "Abruzzo"
+      ],
+      "yellow": [
+      ],
+      "white": [
+        "Sardegna"
+      ]
+    }
   }
 ]
