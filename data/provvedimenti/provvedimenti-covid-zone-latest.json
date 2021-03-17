@@ -626,8 +626,7 @@
         "Veneto",
         "P.A. Trento",
         "Campania",
-        "Molise",
-        "Basilicata"
+        "Molise"
       ],
       "darkOrange": [
       ],
@@ -639,7 +638,8 @@
         "Calabria",
         "Valle d'Aosta",
         "Sicilia",
-        "Abruzzo"
+        "Abruzzo",
+        "Basilicata"
       ],
       "yellow": [
       ],
