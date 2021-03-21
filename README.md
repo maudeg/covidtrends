@@ -7,6 +7,10 @@
 Il CovIndex fornisce una indicazione del trend del contagio, analogamente all'indice di riproduzione Rt, utilizzando un algoritmo alternativo a quello di Rt.
 L'obiettivo è di avere CovIndex minore di 1, in tal modo i nuovi positivi tendono a diventare sempre di meno. Il CovIndex ha il vantagio di fornire informazioni fino a 2 settimane più recenti rispetto ad Rt. Per ulteriori dettagli consulta la guida sul sito CovidTrends.
 
+### Algoritmo
+
+L'algoritmo del CovIndex è stato descritto nell'articolo tecnico sulla rivista [InfoSec](https://www.infosec.news/2020/12/09/news/speciale-coronavirus/covindex-predizioni-pandemiche/).
+
 ## Struttura del repository
 
 ```text
