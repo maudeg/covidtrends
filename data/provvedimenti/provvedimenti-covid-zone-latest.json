@@ -521,7 +521,7 @@
         "Molise",
         "Abruzzo"
       ],
-      "yellow": [        
+      "yellow": [
         "Basilicata",
         "Friuli Venezia Giulia",
         "Marche",
@@ -569,7 +569,7 @@
         "Veneto",
         "Sicilia"
       ],
-      "white":[
+      "white": [
         "Sardegna"
       ]
     }
@@ -627,8 +627,7 @@
         "Campania",
         "Molise"
       ],
-      "darkOrange": [
-      ],
+      "darkOrange": [],
       "orange": [
         "Umbria",
         "P.A. Bolzano",
@@ -640,45 +639,76 @@
         "Abruzzo",
         "Basilicata"
       ],
-      "yellow": [
-      ],
+      "yellow": [],
       "white": [
         "Sardegna"
       ]
     }
   },
-    {
-      "date": "2021/03/22",
-      "zone": {
-        "red": [
-          "Emilia-Romagna",
-          "Friuli Venezia Giulia",
-          "Lazio",
-          "Lombardia",
-          "Marche",
-          "Puglia",
-          "Piemonte",
-          "Veneto",
-          "P.A. Trento",
-          "Campania"
-        ],
-        "darkOrange": [],
-        "orange": [
-          "Umbria",
-          "P.A. Bolzano",
-          "Toscana",
-          "Liguria",
-          "Calabria",
-          "Valle d'Aosta",
-          "Sicilia",
-          "Abruzzo",
-          "Basilicata",
-          "Molise",
-          "Sardegna"
-        ],
-        "yellow": [],
-        "white": [
-        ]
-      }
+  {
+    "date": "2021/03/22",
+    "zone": {
+      "red": [
+        "Emilia-Romagna",
+        "Friuli Venezia Giulia",
+        "Lazio",
+        "Lombardia",
+        "Marche",
+        "Puglia",
+        "Piemonte",
+        "Veneto",
+        "P.A. Trento",
+        "Campania"
+      ],
+      "darkOrange": [],
+      "orange": [
+        "Umbria",
+        "P.A. Bolzano",
+        "Toscana",
+        "Liguria",
+        "Calabria",
+        "Valle d'Aosta",
+        "Sicilia",
+        "Abruzzo",
+        "Basilicata",
+        "Molise",
+        "Sardegna"
+      ],
+      "yellow": [],
+      "white": []
     }
+  },
+  {
+    "date": "2021/03/29",
+    "zone": {
+      "red": [
+        "Emilia-Romagna",
+        "Friuli Venezia Giulia",
+        "Lombardia",
+        "Marche",
+        "Puglia",
+        "Piemonte",
+        "Veneto",
+        "P.A. Trento",
+        "Valle d'Aosta",
+        "Calabria",
+        "Toscana",
+        "Campania"
+      ],
+      "darkOrange": [],
+      "orange": [
+        "Umbria",
+        "P.A. Bolzano",
+        "Liguria",
+        "Sicilia",
+        "Abruzzo",
+        "Basilicata",
+        "Lazio",
+        "Molise",
+        "Sardegna"
+      ],
+      "yellow": [],
+      "white": []
+    }
+  }
 ]
