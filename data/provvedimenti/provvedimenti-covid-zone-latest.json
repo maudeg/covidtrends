@@ -710,5 +710,70 @@
       "yellow": [],
       "white": []
     }
+  },
+  {
+    "date": "2021/04/03",
+    "zone": {
+      "red": [
+        "Emilia-Romagna",
+        "Friuli Venezia Giulia",
+        "Lombardia",
+        "Marche",
+        "Puglia",
+        "Piemonte",
+        "Veneto",
+        "P.A. Trento",
+        "Valle d'Aosta",
+        "Calabria",
+        "Toscana",
+        "Campania",
+        "Umbria",
+        "P.A. Bolzano",
+        "Liguria",
+        "Sicilia",
+        "Abruzzo",
+        "Basilicata",
+        "Lazio",
+        "Molise",
+        "Sardegna"
+      ],
+      "darkOrange": [],
+      "orange": [],
+      "yellow": [],
+      "white": []
+    }
+  },
+  {
+    "date": "2021/04/06",
+    "zone": {
+      "red": [
+        "Emilia-Romagna",
+        "Friuli Venezia Giulia",
+        "Lombardia",
+        "Puglia",
+        "Piemonte",
+        "Valle d'Aosta",
+        "Calabria",
+        "Toscana",
+        "Campania"
+      ],
+      "darkOrange": [],
+      "orange": [
+        "Umbria",
+        "P.A. Bolzano",
+        "Liguria",
+        "Sicilia",
+        "Abruzzo",
+        "Basilicata",
+        "Lazio",
+        "Molise",
+        "Marche",
+        "Veneto",
+        "P.A. Trento",
+        "Sardegna"
+      ],
+      "yellow": [],
+      "white": []
+    }
   }
 ]
