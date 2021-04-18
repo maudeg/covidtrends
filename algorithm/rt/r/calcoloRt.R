@@ -1,7 +1,9 @@
 #RM(LIST=LS())
 #graphics.off()
-library(EpiEstim)
 
+#if epiEstim is not installed
+#install.packages("EpiEstim",dependencies=TRUE, repos='http://cran.rstudio.com/')
+library("EpiEstim")
 
 ## parametri dell'intervallo seriale stimati da dati di contact tracing lombardi
 shape.stimato <- 1.87

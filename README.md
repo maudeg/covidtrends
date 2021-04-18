@@ -28,3 +28,17 @@ covidtrends-data/
 * Dati Rt aggiornati settimanalmente dal sito [ISS](https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard)
 * Dati servizi di controllo ogni giorno alle 18:00
 * Dati provvedimenti legislativi e zone colorate, aggiornati al momento della pubblicazione in Gazzetta Ufficiale
+
+## Setup environment
+
+```bash
+$> brew install R
+```
+
+### EpiEstim package
+
+Install in R the lib if needed.
+
+```R
+install.packages("EpiEstim",dependencies=TRUE, repos='http://cran.rstudio.com/')
+```

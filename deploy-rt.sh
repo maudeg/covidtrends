@@ -1,13 +1,13 @@
 echo "download new input data"
 # https://github.com/ondata/iss-epicentro-rt-nazionale
-datecsv='2021-04-07' 
+datecsv='2021-04-14'
 # download csv at date
 curl https://raw.githubusercontent.com/ondata/iss-epicentro-rt-nazionale/main/curva_epidemica_Italia_$datecsv -o ./data/curva-epidemica/curva_epidemica_Italia_$datecsv.txt
 # update latest
 cp ./data/curva-epidemica/curva_epidemica_Italia_$datecsv.txt ./data/curva-epidemica/curva_epidemica_Italia_latest.txt
 # generate Rt
 echo "Generate Rt data..."
-/Library/Frameworks/R.framework/Resources/bin/R --no-save -f ./algorithm/rt/r/calcoloRt.R
+R --no-save -f ./algorithm/rt/r/calcoloRt.R
 # copy /tmp/rtdata.csv on github latest
 # commit/push master
 cp /tmp/rtdata.csv ./data/rt-italia/rt-italia-$datecsv.csv
