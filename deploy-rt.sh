@@ -1,6 +1,6 @@
 echo "download new input data"
 # https://github.com/ondata/iss-epicentro-rt-nazionale
-datecsv='2021-04-14'
+datecsv='2021-04-21'
 # download csv at date
 curl https://raw.githubusercontent.com/ondata/iss-epicentro-rt-nazionale/main/curva_epidemica_Italia_$datecsv -o ./data/curva-epidemica/curva_epidemica_Italia_$datecsv.txt
 # update latest
