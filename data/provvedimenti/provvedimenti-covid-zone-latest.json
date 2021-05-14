@@ -849,5 +849,36 @@
     ],
     "white": []
   }
+},
+{
+  "date": "2021/05/17",
+  "zone": {
+    "red": [],
+    "darkOrange": [],
+    "orange": ["Valle d'Aosta"],
+    "yellow": [
+      "Emilia-Romagna",
+      "Sardegna", 
+      "Sicilia",
+      "Calabria",
+      "Basilicata",
+      "Puglia",
+      "Friuli Venezia Giulia",
+      "Lombardia",
+      "Piemonte",
+      "Toscana",
+      "Umbria",
+      "P.A. Bolzano",
+      "Liguria",
+      "Abruzzo",
+      "Lazio",
+      "Molise",
+      "Marche",
+      "Veneto",
+      "Campania",
+      "P.A. Trento"
+    ],
+    "white": []
+  }
 }
 ]
