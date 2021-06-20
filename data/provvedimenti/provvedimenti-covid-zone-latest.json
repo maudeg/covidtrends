@@ -978,5 +978,38 @@
       "Liguria"
     ]
   }
+},
+{
+  "date": "2021/06/21",
+  "zone": {
+    "red": [],
+    "darkOrange": [],
+    "orange": [],
+    "yellow": [
+      "Valle d'Aosta"
+    ],
+    "white": [
+      "Sardegna",
+      "Molise",
+      "Friuli Venezia Giulia",
+      "Veneto",
+      "milia-Romagna",
+      "Umbria",
+      "P.A. Trento",
+      "Lombardia",
+      "Puglia",
+      "Lazio",
+      "Piemonte",
+      "Abruzzo",
+      "Liguria",
+      "Sicilia",
+      "Calabria",
+      "Basilicata",
+      "Toscana",
+      "P.A. Bolzano",
+      "Marche",
+      "Campania"
+    ]
+  }
 }
 ]
