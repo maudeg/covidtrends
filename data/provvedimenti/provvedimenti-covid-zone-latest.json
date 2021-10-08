@@ -1074,5 +1074,37 @@
       "Campania"
     ]
   }
+},
+{
+  "date": "2021/10/09",
+  "zone": {
+    "red": [],
+    "darkOrange": [],
+    "orange": [],
+    "yellow": [],
+    "white": [
+      "Sicilia",
+      "Valle d'Aosta",
+      "Sardegna",
+      "Molise",
+      "Friuli Venezia Giulia",
+      "Veneto",
+      "Emilia-Romagna",
+      "Umbria",
+      "P.A. Trento",
+      "Lombardia",
+      "Puglia",
+      "Lazio",
+      "Piemonte",
+      "Abruzzo",
+      "Liguria",
+      "Calabria",
+      "Basilicata",
+      "Toscana",
+      "P.A. Bolzano",
+      "Marche",
+      "Campania"
+    ]
+  }
 }
 ]
