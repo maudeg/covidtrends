@@ -1255,5 +1255,34 @@
         "Campania"
       ]
     }
+  },
+{
+  "date": "2022/01/23",
+  "zone": {
+    "red": [],
+    "darkOrange": [],
+    "orange": ["Friuli Venezia Giulia", "Valle d'Aosta", "Sicilia", "Abruzzo", "Piemonte"],
+    "yellow": [
+      "P.A. Bolzano",
+      "P.A. Trento",
+      "Liguria",
+      "Veneto",
+      "Lombardia",
+      "Lazio",
+      "Emilia-Romagna",
+      "Toscana",
+      "Campania",
+      "Puglia",
+      "Lombardia",
+      "Sardegna",
+      "Marche",
+      "Calabria"
+    ],
+    "white": [
+      "Molise",
+      "Umbria",
+      "Basilicata"
+    ]
   }
+}
 ]
