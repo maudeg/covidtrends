@@ -1292,19 +1292,17 @@
     "zone": {
       "red": [],
       "darkOrange": [],
-      "orange": [
-      ],
+      "orange": [],
       "yellow": [
-        
         "P.A. Trento",
         "Liguria",
-        
+
         "Lazio",
         "Emilia-Romagna",
         "Toscana",
-        
+
         "Puglia",
-        
+
         "Sardegna",
         "Marche",
         "Calabria",
@@ -1315,7 +1313,78 @@
         "Piemonte",
         "Molise"
       ],
-      "white": ["Umbria", "Lombardia", "Campania", "Veneto", "Basilicata","P.A. Bolzano"]
+      "white": [
+        "Umbria",
+        "Lombardia",
+        "Campania",
+        "Veneto",
+        "Basilicata",
+        "P.A. Bolzano"
+      ]
+    }
+  },
+  {
+    "date": "2022/01/23",
+    "zone": {
+      "red": [],
+      "darkOrange": [],
+      "orange": [
+        "Friuli Venezia Giulia",
+        "Valle d'Aosta",
+        "Sicilia",
+        "Abruzzo",
+        "Piemonte"
+      ],
+      "yellow": [
+        "P.A. Bolzano",
+        "P.A. Trento",
+        "Liguria",
+        "Veneto",
+        "Lombardia",
+        "Lazio",
+        "Emilia-Romagna",
+        "Toscana",
+        "Campania",
+        "Puglia",
+        "Lombardia",
+        "Sardegna",
+        "Marche",
+        "Calabria"
+      ],
+      "white": ["Molise", "Umbria", "Basilicata"]
+    }
+  },
+  {
+    "date": "2022/05/01",
+    "zone": {
+      "red": [],
+      "darkOrange": [],
+      "orange": [],
+      "yellow": [
+      ],
+      "white": [
+        "Umbria",
+        "Lombardia",
+        "Campania",
+        "Veneto",
+        "Basilicata",
+        "P.A. Bolzano",
+        "P.A. Trento",
+        "Liguria",
+        "Lazio",
+        "Emilia-Romagna",
+        "Toscana",
+        "Puglia",
+        "Sardegna",
+        "Marche",
+        "Calabria",
+        "Friuli Venezia Giulia",
+        "Valle d'Aosta",
+        "Sicilia",
+        "Abruzzo",
+        "Piemonte",
+        "Molise"
+      ]
     }
   }
 ]
